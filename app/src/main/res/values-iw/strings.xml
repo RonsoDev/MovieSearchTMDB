@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TMDB רשימת צפייה</string>
+    <string name="action_settings">הגדרות</string>
+    <string name="title_activity_edit_movie">EditMovieActivity</string>
+    <string name="title_activity_web_movies">WebMovies</string>
+    <string name="delete_list">מחק רשימה</string>
+    <string name="exitapp">יציאה</string>
+    <string name="write_title_here">שם סרט</string>
+    <string name="save">שמור</string>
+    <string name="cancel">בטל</string>
+    <string name="enter_url">הכנס כתובת URL</string>
+    <string name="write_overview_here">כתוב תקציר</string>
+    <string name="trailer">טריילר</string>
+    <string name="update">עדכן</string>
+    <string name="my_watch_list">רשימת הצפייה שלי</string>
+    <string name="rate_movie">דרג סרט</string>
+    <string name="watched">נצפה</string>
+    <string name="release_date">תאריך יציאה:</string>
+    <string name="show_image">הצג תמונה</string>
+    <string name="english">English</string>
+    <string name="עברית">עברית</string>
+    <string name="exitTwice">לחץ פעמיים כדי לצאת</string>
+    <string name="manual">ידני</string>
+    <string name="web">רשת</string>
+    <string name="addMovie">הוסף סרט לרשימה שלך</string>
+    <string name="plsChoose">אנא בחר</string>
+    <string name="share">שתף</string>
+    <string name="delete">מחק</string>
+    <string name="updated">סרט עודכן</string>
+    <string name="search"> חיפוש ב-TMDB</string>
+    <string name="release">תאריך יציאה:</string>
+    <string name="cantSave">יש לציין כותרת של סרט או ללחוץ בטל</string>
+    <string name="you_have_no_movies_on_your_list_yet_click_on_the_button_to_make_the_best_list_in_the_world">אין לך עדיין סרטים ברשימה. לחץ על כפתור הפלוס כדי ליצור את הרשימה היפה בעולם!</string>
+    <string name="languages">שפות</string>
+    <string name="Exit">יציאה</string>
+    <string name="Español">Español</string>
+    <string name="عربى">عربى</string>
+</resources>

@@ -1,0 +1,44 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.ronsolomon.solom.movieproject_v2.MainActivity">
+
+    <item
+        android:id="@+id/change_lang"
+        android:orderInCategory="100"
+        android:title="@string/languages" >
+
+        <menu >
+            <item
+                android:id="@+id/English"
+                android:orderInCategory="100"
+                android:title="@string/english" />
+            <item
+                android:id="@+id/Spanish"
+                android:orderInCategory="100"
+                android:title="@string/Español" />
+            <item
+                android:id="@+id/Hebrew"
+                android:orderInCategory="100"
+                android:title="@string/עברית" />
+            <item
+                android:id="@+id/Arabic"
+                android:orderInCategory="100"
+                android:title="@string/عربى" />
+
+
+        </menu>
+
+
+
+
+    </item>
+    <item
+        android:id="@+id/deleteList"
+        android:orderInCategory="100"
+        android:title="@string/delete_list" />
+    <item
+        android:id="@+id/exitapp"
+        android:orderInCategory="100"
+        android:title="@string/Exit" />
+</menu>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TMDB قائمة المراقبة</string>
+    <string name="action_settings">إعدادات</string>
+    <string name="title_activity_edit_movie">EditMovieActivity</string>
+    <string name="title_activity_web_movies">WebMovies</string>
+    <string name="delete_list">حذف القائمة</string>
+    <string name="exitapp">exitApp</string>
+    <string name="write_title_here">اكتب العنوان هنا</string>
+    <string name="save">حفظ</string>
+    <string name="cancel">إلغاء</string>
+    <string name="enter_url">إدخال عنوان الموقع</string>
+    <string name="write_overview_here">اكتب نظرة عامة هنا</string>
+    <string name="trailer">اعلان الفلم</string>
+    <string name="update">تحديث</string>
+    <string name="my_watch_list">قائمة الرغبات الخاصة بي</string>
+    <string name="rate_movie">معدل الفيلم</string>
+    <string name="watched">شاهد</string>
+    <string name="release_date">تاريخ النشر: </string>
+    <string name="show_image">إظهار الصورة</string>
+    <string name="english">English</string>
+    <string name="עברית">עברית</string>
+    <string name="exitTwice">يرجى النقر مرتين للعودة</string>
+    <string name="manual">كتيب وجيز</string>
+    <string name="web">شبكة</string>
+    <string name="addMovie">أضف فيلمًا إلى قائمتك</string>
+    <string name="plsChoose">اختر من فضلك</string>
+    <string name="share">شارك</string>
+    <string name="delete">حذف</string>
+    <string name="updated">تحديث الفيلم</string>
+    <string name="search">TMDB بحث</string>
+    <string name="release">تاريخ النشر: </string>
+    <string name="cantSave">يجب إدخال عنوان أو اضغط على إلغاء</string>
+    <string name="you_have_no_movies_on_your_list_yet_click_on_the_button_to_make_the_best_list_in_the_world">لا توجد أفلام في قائمتك حتى الآن. انقر على زر + لجعل أفضل قائمة في العالم!</string>
+    <string name="languages">اللغات</string>
+    <string name="Exit">ىخرج</string>
+    <string name="Español">Español</string>
+    <string name="عربى">عربى</string>
+</resources>

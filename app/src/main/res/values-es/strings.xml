@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TMDB Lista De Seguimiento</string>
+    <string name="action_settings">Configuraciones</string>
+    <string name="title_activity_edit_movie">EditMovieActivity</string>
+    <string name="title_activity_web_movies">WebMovies</string>
+    <string name="delete_list">Eliminar lista</string>
+    <string name="exitapp">exitApp</string>
+    <string name="write_title_here">Escriba el título aquí</string>
+    <string name="save">Guardar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="enter_url">Introducir  URL</string>
+    <string name="write_overview_here">Escribir descripción aquí</string>
+    <string name="trailer">Trailer de la película</string>
+    <string name="update">Actualizar</string>
+    <string name="my_watch_list">Mi lista de seguimiento</string>
+    <string name="rate_movie">Califica la película</string>
+    <string name="watched">Mirado</string>
+    <string name="release_date">Fecha de lanzamiento: </string>
+    <string name="show_image">Mostrar Imagen</string>
+    <string name="english">English</string>
+    <string name="עברית">עברית</string>
+    <string name="exitTwice">Haga clic en ATRÁS dos veces para salir</string>
+    <string name="manual">Manual</string>
+    <string name="web">Web</string>
+    <string name="addMovie">Agrega una película a tu lista</string>
+    <string name="plsChoose">Por favor elija</string>
+    <string name="share">Compartir</string>
+    <string name="delete">Borrar</string>
+    <string name="updated">Película actualizada</string>
+    <string name="search">TMDB Buscar</string>
+    <string name="release">Fecha de lanzamiento: </string>
+    <string name="cantSave">Debe ingresar el título o presionar Cancelar</string>
+    <string name="you_have_no_movies_on_your_list_yet_click_on_the_button_to_make_the_best_list_in_the_world">Aún no tienes películas en tu lista. Haga clic en el botón + para hacer la mejor lista del mundo!</string>
+    <string name="languages">Idiomas</string>
+    <string name="Exit">Salida</string>
+    <string name="español">Español</string>
+    <string name="Español">Español</string>
+    <string name="عربى">عربى</string>
+</resources>
